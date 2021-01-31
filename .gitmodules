@@ -1,0 +1,3 @@
+[submodule "front-end/BancoMundial"]
+	path = front-end/BancoMundial
+	url = https://github.com/kaio0liveira/WorldBank-Api.git
